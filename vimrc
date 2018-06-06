@@ -74,7 +74,7 @@ set ruler
 " Line numbers on by default
 set number
 
-" Indentation settings - 2 spaces, no real tabs
+" Indentation settings - 4 spaces, no real tabs
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
